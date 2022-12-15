@@ -1,7 +1,7 @@
 # Visual Basic for Applications macros for the PDFTables.com API
 
-Using these VBA macros, you can select multiple files and choose to
-convert them either into the current worksheet, or a new workbook. You
+Using these VBA macros, you can select multiple PDF files and choose to
+convert them either into the current Excel worksheet, or a new workbook. You
 can also check your page balance.
 
 ## Usage
